@@ -143,12 +143,12 @@ section .marg{
     position: relative;
 }
 .secImg img{
-    width: 31vw;
+    width: 30vw;
     position:absolute;
     margin-top: -1px;
 }
 .secImg video{
-    width: 30vw;
+    width: 30vw; 
 }
 
 section > div{
